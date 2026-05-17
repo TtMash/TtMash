@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tebogo-mashiane/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tebogo.tukishi.mashiane@email.com)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tebogo.tukishi.mashiane@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A3C5E?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/TtMash/TtMash)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TtMash&color=2E6DA4&style=for-the-badge&label=PROFILE+VIEWS)
@@ -174,7 +174,7 @@ class TtMash:
 I'm actively seeking opportunities in **Machine Learning Engineering** and **Data Science**. If you're working on something interesting — let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tebogo-mashiane/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tebogo.tukishi.mashiane@email.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tebogo.tukishi.mashiane@gmail.com)
 
 <br/>
 
