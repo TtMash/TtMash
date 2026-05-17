@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3C5E,100:2E6DA4&height=200&section=header&text=Tebogo%20Tukishi%20Mashiane&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Software%20Engineer&descAlignY=58&descColor=B8D4F0&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3C5E,100:2E6DA4&height=200&section=header&text=Tebogo%20Tukishi%20Mashiane&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%&descAlignY=58&descColor=B8D4F0&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E6DA4&center=true&vCenter=true&width=600&lines=BSc+Hons+Big+Data+Analysis+%E2%80%94+Distinction+%F0%9F%8E%93;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Building+intelligent+systems+that+matter;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
