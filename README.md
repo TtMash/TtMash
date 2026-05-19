@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tebogo-mashiane/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tebogo.tukishi.mashiane@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A3C5E?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/TtMash/TtMash)
 
 </div>
 
