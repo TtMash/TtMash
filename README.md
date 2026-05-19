@@ -12,8 +12,6 @@
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tebogo.tukishi.mashiane@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A3C5E?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/TtMash/TtMash)
 
-![Profile Views](https://komarev.com/ghpvc/?username=TtMash&color=2E6DA4&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
