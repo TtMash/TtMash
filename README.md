@@ -86,7 +86,7 @@ class TtMash:
 
 | 🧩 Project | 🔍 Description | 🛠️ Stack |
 |---|---|---|
-| [**Deep Learning Puzzle Solver**](#) | End-to-end CV pipeline generating segmentation masks for 500 unlabelled puzzle pieces; reconstructed 1,000-piece puzzles with full adjacency matrix | `PyTorch` `OpenCV` `CNNs` `Image Segmentation` |
+| [**Deep Learning Puzzle Solver**](https://github.com/TtMash/Puzzle-Segmentation-Solver.git) | End-to-end CV pipeline generating segmentation masks for 500 unlabelled puzzle pieces; reconstructed 1,000-piece puzzles with full adjacency matrix | `PyTorch` `OpenCV` `CNNs` `Image Segmentation` |
 | [**Seismic Reconstruction Study**](https://github.com/TtMash/Seismic-Reconstruction-Study) | Compared CNN, ResNet+Attention & ViT architectures for 3D seismic volume restoration on the Orange Basin dataset; evaluated via PSNR, SSIM & MS-SSIM | `TensorFlow` `ViT` `ResNet` `Signal Processing` |
 | [**Dimensionality Reduction Suite**](#) | Benchmarked AE, VAE, AE+SOM, AE+t-SNE & AE+UMAP for 2D embedding; applied k-Means clustering and visualised latent space geometry | `PyTorch` `Scikit-learn` `UMAP` `t-SNE` `VAE` |
 
